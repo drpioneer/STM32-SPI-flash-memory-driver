@@ -1,4 +1,4 @@
-# at45dbXXX
+# at45dbXXX / w25qXX
 
 Драйвер для работы с м/сх FLASH-памяти: Adesto AT45DBXXX/ Winbond W25QXX и др.
  
