@@ -1,5 +1,5 @@
 /*
- *  Драйвер для работы с м/сх FLASH-памяти: Adesto AT45DBXXX/ Winbond W25QXX и др.
+ *  Драйвер для работы с м/сх FLASH-памяти через SPI: Adesto AT45DBXXX/ Winbond W25QXX и др.
  *  Источники кода:     https://github.com/nimaltd/45dbxxx
  *                      https://github.com/nimaltd/w25qxx
  *                      https://github.com/iDiy/AT45DB161D-Drv
